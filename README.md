@@ -1,5 +1,5 @@
 <div style="align-items:center; justify-content:center;">
-  <img src="res/GH绘图1.plain.svg"/>
+  <img src="res/GH绘图1.png"/>
 </div>
 
 ## Hi there 👋
