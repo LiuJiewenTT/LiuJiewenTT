@@ -1,3 +1,7 @@
+<div style="align-items:center; justify-content:center;">
+  <img src="res/GH绘图1.plain.svg"/>
+</div>
+
 ## Hi there 👋
 
 一起让技术更好地推动文明的前进吧！
